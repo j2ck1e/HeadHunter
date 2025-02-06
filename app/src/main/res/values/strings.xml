@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HeadHunter</string>
+    <string name="find_string">Поиск</string>
+    <string name="detail_vacancy_string">Вакансия</string>
+    <string name="favorite_string">Избранное</string>
+    <string name="letter_string">Отклик</string>
+    <string name="message_string">Сообщение</string>
+    <string name="profile_string">Профиль</string>
+</resources>
